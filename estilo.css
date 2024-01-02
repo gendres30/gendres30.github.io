@@ -2,3 +2,26 @@ body{
     background-image: url('https://img.freepik.com/vector-premium/fondo-textura-gris-claro_149326-5895.jpg');
     padding: 40px;
     }
+nav ul {
+  background-color: #757575;
+  width: 100%;
+  list-style: none;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline flex;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  width: 150px;
+}
+
+nav li:hover {
+  background-color: black;
+  
+}
