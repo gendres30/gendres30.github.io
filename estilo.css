@@ -2,60 +2,32 @@ body{
   background-image: url('https://img.freepik.com/vector-premium/fondo-textura-gris-claro_149326-5895.jpg');
   padding: 40px;
   }
-
-body {
-  background-color: #dde5ee;
-  font-family: 'Times New Roman', Times, serif, sans-serif;
-  line-height: 2.2;
-}
-
 header {
-  background-color: #333;
-  color: #fff;
-  padding: 1em 0;
+background-color: #333;
+color: #fff;
+padding: 1em 0;
 }
 
 nav ul {
-  background-color: #757575;
-  width: 100%;
-  list-style: none;
-  text-align: center;
+background-color: #757575;
+width: 100%;
+list-style: none;
+text-align: center;
 }
 
 nav ul li {
-  display: inline flex;
-  margin-right: 20px;
+display: inline flex;
+margin-right: 20px;
 }
 
 nav a {
-  text-decoration: none;
-  color: white;
-  padding: 10px;
-  width: 150px;
+text-decoration: none;
+color: white;
+padding: 10px;
+width: 150px;
 }
 
 nav li:hover {
-  background-color: black;
-  
-}
+background-color: black;
 
-main {
-  padding: 20px;
-}
-
-.container {
-  text-align: center;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.content-section {
-  margin-bottom: 30px;
-}
-
-footer {
-  background-color: #333;
-  color: #fff;
-  text-align: center;
-  padding: 1em 0;
 }
