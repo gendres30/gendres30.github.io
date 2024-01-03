@@ -49,11 +49,6 @@ main {
   margin: 0 auto;
 }
 
-img {
-  max-width: 100%;
-  border-radius: 50%;
-}
-
 .content-section {
   margin-bottom: 30px;
 }
@@ -63,8 +58,4 @@ footer {
   color: #fff;
   text-align: center;
   padding: 1em 0;
-}
-.imagen-carnet {
-  width: 3.5cm; 
-  height: 4.5cm;
 }
