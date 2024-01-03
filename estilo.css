@@ -1,3 +1,7 @@
+body{
+  background-image: url('https://img.freepik.com/vector-premium/fondo-textura-gris-claro_149326-5895.jpg');
+  padding: 40px;
+  }
 body, h1, h2, h3, h4, h5, h6, ul, li, p {
   margin: 0;
   padding: 0;
